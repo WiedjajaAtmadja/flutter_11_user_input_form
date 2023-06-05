@@ -1,4 +1,4 @@
-import 'category.dart';
+import '../models/category.dart';
 
 class GroceryItem {
   const GroceryItem({
